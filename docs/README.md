@@ -20,7 +20,7 @@ Kami berkomitmen untuk memberikan pelayanan terbaik kepada para pengguna SOGamer
  
 **Discord:**
  - [https://discord.gg/sogamers](https://discord.gg/sogamers)
- 
+
 **Telegram:**
  - [SOGamers Account Market](https://t.me/SOGamersAccount)
  - [SOGamers Hardware Market](https://t.me/SOGamersHardware)
@@ -33,7 +33,7 @@ Kami berkomitmen untuk memberikan pelayanan terbaik kepada para pengguna SOGamer
  - [SOGamers | Lost Ark | LostArk](https://t.me/SOGamersDemandLostArk)
  - [SOGamers Diskusi | Lost Ark | LostArk](https://t.me/SOGamersDiskusiLostArk)
  - [SOGamers | Albion Online](https://t.me/SOGamersDemandAlbionOnline)
- - [https://t.me/SOGamersDiskusiAlbionOnline](https://t.me/SOGamersDiskusiAlbionOnline)
+ - [SOGamers Diskusi | Albion Online](https://t.me/SOGamersDiskusiAlbionOnline)
 
 
 
