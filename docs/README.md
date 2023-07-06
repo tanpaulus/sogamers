@@ -17,8 +17,10 @@ Kami berkomitmen untuk memberikan pelayanan terbaik kepada para pengguna SOGamer
 
 **website:**
  - [sogamers.id](https://sogamers.id/)
+ 
 **Discord:**
  - [https://discord.gg/sogamers](https://discord.gg/sogamers)
+ 
 **Telegram:**
  - [SOGamers Account Market](https://t.me/SOGamersAccount)
  - [SOGamers Hardware Market](https://t.me/SOGamersHardware)
