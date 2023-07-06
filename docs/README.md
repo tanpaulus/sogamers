@@ -15,7 +15,7 @@ Kami berkomitmen untuk memberikan pelayanan terbaik kepada para pengguna SOGamer
 
 ## Daftar Platform SOGamers
 
-![banned](https://cdn.discordapp.com/attachments/1119912192750395483/1126404993369505864/SOG_Sampul_2.png)
+![banner](https://cdn.discordapp.com/attachments/1118845810919100467/1126648688522043584/SOG_HEADER.png)
 
 **Website:**
  - [sogamers.id](https://sogamers.id/)
