@@ -4,4 +4,5 @@
 
 * [Telegram](/)
     * [Fitur Member](fiturmember.md)
+    * [Fitur Partner](fiturpartner.md)
         

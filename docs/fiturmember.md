@@ -1,5 +1,5 @@
-# FItur Member
-Fitur member di SOGamers memberikan pengalaman yang lebih istimewa dan eksklusif kepada para pengguna kami. Sebagai member, kamu akan menikmati berbagai keuntungan dan fasilitas yang tidak tersedia untuk seluruh member SOGamers. Berikut adalah deskripsi tentang fitur member di SOGamers
+# FItur Member SOGamers
+Fitur member di SOGamers memberikan pengalaman yang lebih istimewa dan eksklusif kepada para pengguna kami. Sebagai member, kamu akan menikmati berbagai keuntungan dan fasilitas yang tersedia untuk seluruh member SOGamers. Berikut adalah deskripsi tentang fitur member di SOGamers
 
 ## /info
 
